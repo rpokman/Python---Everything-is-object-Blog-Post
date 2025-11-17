@@ -246,11 +246,9 @@ Understanding these concepts isn't about memorizing rules—it's about recognizi
 ---
 
 **Links:**
-- Blog Post: [Add your Medium/LinkedIn article URL here]
-- LinkedIn Post: [Add your LinkedIn post URL here]
 - GitHub Repository: [holbertonschool-higher_level_programming/python-everything_is_object](https://github.com/rpokman/holbertonschool-higher_level_programming/tree/main/python-everything_is_object)
 
 ---
 
-*Written as part of the Holberton School curriculum - Learning Python the right way, from the ground up.*
+*Written as part of the Holberton School curriculum.*
 
